@@ -1,6 +1,6 @@
 # About me
 🧐 I’m currently learning about
-- GitHub 😓
+- Git 😓
 
 <!--
 ## Hi there 👋
